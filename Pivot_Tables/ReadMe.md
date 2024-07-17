@@ -10,7 +10,7 @@ Here is an overview of what you will get after doing the collapse manipulation :
 ![collapse](https://github.com/user-attachments/assets/2a1988c0-7be2-4ca4-af38-4a4b80fb6257)
 ### 4) Do not forget to add currency to the columns  Sum of Revenue (you can do that by going to Home in the top of your Excel page, then click on Currency, and tadaaa, the euro sign will appear).
 ![euro](https://github.com/user-attachments/assets/bbb33c9f-ef69-4691-a165-694578f3c3cf)
-### PS: I customized the name of the column Sum_Revenue to Revenue per Country by clicking on it -> Value Field Settings (you can change the name and choose how to display values. I chose the percentage and got the following!).
+### PS: I customized the name of the column Sumof Revenue to Revenue per Country by clicking on it -> Value Field Settings (you can change the name and choose how to display values. I chose the percentage and got the following!).
 ![revenur per country](https://github.com/user-attachments/assets/9ab44412-2d41-4a18-a43e-1d2a6f857c77)
 ### 5) Sort the numerical values from largest to smallest (right-click on a row and do it for the country and its states because sorting the values of a country won't sort the values of its states).
 ![sort](https://github.com/user-attachments/assets/b7b6cfda-80cd-4859-aa40-d2a85d527c12)
