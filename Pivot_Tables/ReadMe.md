@@ -32,7 +32,8 @@ Use the filter to select either Male or Female to see the corresponding data.<br
 Check the revenue, cost, and profit values to determine which gender spends the most on bikes.<br>
 This will allow you to filter the data by gender and easily see which gender has higher spending on bikes.<br>
 ![filter1](https://github.com/user-attachments/assets/2f70debb-61ef-403b-886f-62e2a8cef493)
-![filter2](https://github.com/user-attachments/assets/57b8ee7b-af09-40f5-b1bf-cc088edbe85f)
+![filter2](https://github.com/user-attachments/assets/57b8ee7b-af09-40f5-b1bf-cc088edbe85f) 
+<br>
 The males spend more money than females!
 ### 9) Let's add another pivot table to see which year the revenue was highest.
 ![pivot 2](https://github.com/user-attachments/assets/f285501a-488d-4b70-b7e5-69ee33d76424)
