@@ -23,4 +23,5 @@ It replaces existing text with new text in a text string
 =SUBSTITUTE(H2,"/","-",2) , to substitute  only the second / with -
 <br>
 ![2instance](https://github.com/user-attachments/assets/d35e9a35-9700-468d-92ec-766e6fb3f48a)
-
+# How to use SUM/SUMIF/SUMIFS:
+SUM adds all the number of a range 
