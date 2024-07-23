@@ -25,3 +25,7 @@ It replaces existing text with new text in a text string
 ![2instance](https://github.com/user-attachments/assets/d35e9a35-9700-468d-92ec-766e6fb3f48a)
 # How to use SUM/SUMIF/SUMIFS:
 SUM adds all the number of a range 
+<br>
+=SUM(G2:G10)
+<br>
+![somme](https://github.com/user-attachments/assets/8620370d-a658-4fd4-93ee-ed25f640fddf)
