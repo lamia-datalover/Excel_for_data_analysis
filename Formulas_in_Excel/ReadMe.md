@@ -15,3 +15,7 @@ It replaces existing text with new text in a text string
 =SUBSTITUTE(H2,"/","-"), it means that in the H2 we want to replace / by -
 <br>
 ![sub1](https://github.com/user-attachments/assets/86ca0fc3-c4f1-4472-a827-09bd5f346f21)
+<br>
+=SUBSTITUTE(H2,"/","-",1) , to substitute only the first / with -
+<br>
+![1instance](https://github.com/user-attachments/assets/8bcb8d59-29ee-4501-bd7c-67cf4e892802)
