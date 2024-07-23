@@ -29,3 +29,7 @@ SUM adds all the number of a range
 =SUM(G2:G10)
 <br>
 ![somme](https://github.com/user-attachments/assets/8620370d-a658-4fd4-93ee-ed25f640fddf)
+<br>
+=SUMIF(G2:G10,">5000"), it means that it only sums up the salaries that are > 5000 !
+
+
